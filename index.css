@@ -35,7 +35,20 @@ body{
     line-height: 150%;
     font-weight: bold;
     border-radius: 4px;
+    
 }
 p{
     margin: 0px;
+}
+.container-2{
+    gap: 12px;
+    padding: 12px;
+
+}
+.top-text {
+    font-family: 'Figtree', sans-serif; 
+    font-size: 24px;                   
+    font-weight: 800;                  
+    line-height: 150%;                  
+    letter-spacing: 0px;               
 }
